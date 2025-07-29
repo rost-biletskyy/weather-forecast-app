@@ -5,11 +5,7 @@ A responsive weather web app that lets users view current conditions, multi-day 
 ---
 
 ## Tech Stack
-    Next.js
-- **Next.js** + **TypeScript**
-- **Tailwind CSS** — styling
-- **Axios** — API requests
-- **OpenWeather API** — weather data
+    Next.js, TS, React, Tailwind, Axios, OpenWeather API
 
 ---
 
