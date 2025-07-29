@@ -27,6 +27,7 @@ export const metadata: Metadata = {
         'tailwindcss',
         'typescript',
     ],
+    metadataBase: new URL('https://weather-forecast-app-git-main-noname321rostys-projects.vercel.app'),
     openGraph: {
         images: [
             {
