@@ -34,7 +34,7 @@ A responsive weather web app that lets users view current conditions, multi-day 
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/noname321rosty/weather-forecast-app.git
+git clone https://github.com/rost-biletskyy/weather-forecast-app.git
 cd weather-forecast-app
 
 ```
